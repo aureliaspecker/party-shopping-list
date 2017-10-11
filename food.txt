@@ -1,1 +1,5 @@
 #this will be food
+- charcutrie
+- cheese
+- crackers
+- grapes
