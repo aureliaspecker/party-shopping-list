@@ -3,4 +3,4 @@
 - tonic
 - banana juice
 - white wine
-- champagne
+- bubbles
