@@ -1,5 +1,6 @@
 #this will be drinks
 - gin
 - tonic
-- tropical juice
-- red wine
+- banana juice
+- white wine
+- champagne
