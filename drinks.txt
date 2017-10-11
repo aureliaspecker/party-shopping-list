@@ -3,6 +3,7 @@
 
 
 
+
 Hi it's Eleanor I'm adding drinks
 
 1. Vodka
@@ -11,4 +12,10 @@ Hi it's Eleanor I'm adding drinks
 4. Tonic
 5. Apple juice
 6. Tropical juice
-7. Red wine
+
+- gin
+- tonic
+- banana juice
+- white wine
+- champagne
+
